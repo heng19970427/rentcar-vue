@@ -1,16 +1,15 @@
 <template>
-  <div id="app">
-    <router-view/>
-  </div>
+    <div>
+      系统首页
+    </div>
 </template>
 
 <script>
-
 export default {
-  name: 'app'
+  name: 'index'
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>
